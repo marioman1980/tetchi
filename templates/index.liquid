@@ -1,1 +1,5 @@
-This is my index page!
+{% assign page = pages.frontpage %}
+<div class="rte index-page">
+    <h2>{{ page.title }}</h2>
+    {{ page.content }}
+</div>
