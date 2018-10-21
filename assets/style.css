@@ -128,3 +128,23 @@ footer li a{padding:0 20px; color: #989898;}
 .form-row label{width:120px;}
 .form-row .btn{margin-top:10px;}
 .recover-password,.reset-success{display:none;}
+
+.account-user{ margin-right:60px; width:172px; font-size:14px;}
+.account-user p{margin:0;}
+.user-name{margin-bottom:20px;}
+.account-table{width: 728px;}
+.account-table table{width:100%; text-align:left;}
+.account-table td{padding-top:15px;}
+.account-table tbody, .last-row td, .account-user .status{padding-bottom:15px;}
+.account-table tfoot{text-align:right; border-top:1px solid #ccc;}
+.cart-headers{border-bottom:1px solid #ccc;}
+
+.order-total{text-align:right;}
+.return{border-top:1px solid #ccc; padding-top:15px;}
+
+.add-address-wrapper{margin-bottom:30px; padding-bottom: 30px; border-bottom: 1px solid #ccc;}
+.user-address{margin-bottom:30px; padding-bottom:30px; border-bottom:1px solid #ccc;}
+.user-address p, .user-address h3{margin:0;}
+.last-address{border-bottom:none; padding:0;}
+.update-address{margin-top:15px;}
+.customer-address-table td{padding-top:15px;}
